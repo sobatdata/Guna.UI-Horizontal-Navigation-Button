@@ -46,9 +46,9 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Guna.UI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Guna.UI, Version=1.2.0.0, Culture=neutral, PublicKeyToken=537479e8cf7071a7, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Guna.UI-Framework-Lib\Guna.UI.dll</HintPath>
+      <HintPath>..\..\..\..\..\Documents\Guna.UI-Framework-Lib\Beta2\Guna.UI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

@@ -17,7 +17,7 @@ C:\Users\Ilham-PC\Source\Repos\Guna.UI-Horizontal-Navigation-Button\HorizontalNa
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Horizontal-Navigation-Button\HorizontalNavigationButton\HorizontalNavigationButton\bin\Debug\HorizontalNavigationButton.exe
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Horizontal-Navigation-Button\HorizontalNavigationButton\HorizontalNavigationButton\bin\Debug\HorizontalNavigationButton.pdb
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Horizontal-Navigation-Button\HorizontalNavigationButton\HorizontalNavigationButton\bin\Debug\HorizontalNavigationButton.xml
-C:\Users\Ilham-PC\Source\Repos\Guna.UI-Horizontal-Navigation-Button\HorizontalNavigationButton\HorizontalNavigationButton\obj\Debug\HorizontalNavigationButton.vbprojResolveAssemblyReference.cache
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Horizontal-Navigation-Button\HorizontalNavigationButton\HorizontalNavigationButton\obj\Debug\HorizontalNavigationButton.Form1.resources
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Horizontal-Navigation-Button\HorizontalNavigationButton\HorizontalNavigationButton\obj\Debug\HorizontalNavigationButton.Resources.resources
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Horizontal-Navigation-Button\HorizontalNavigationButton\HorizontalNavigationButton\obj\Debug\HorizontalNavigationButton.vbproj.GenerateResource.Cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Horizontal-Navigation-Button\HorizontalNavigationButton\HorizontalNavigationButton\bin\Debug\Guna.UI.dll
